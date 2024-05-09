@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MoviesApp/static/css/main.beb13c0a.css",
-    "main.js": "/MoviesApp/static/js/main.84184b6f.js",
-    "index.html": "/MoviesApp/index.html",
-    "main.beb13c0a.css.map": "/MoviesApp/static/css/main.beb13c0a.css.map",
-    "main.84184b6f.js.map": "/MoviesApp/static/js/main.84184b6f.js.map"
+    "main.css": "/react-quiz/static/css/main.beb13c0a.css",
+    "main.js": "/react-quiz/static/js/main.30fea773.js",
+    "index.html": "/react-quiz/index.html",
+    "main.beb13c0a.css.map": "/react-quiz/static/css/main.beb13c0a.css.map",
+    "main.30fea773.js.map": "/react-quiz/static/js/main.30fea773.js.map"
   },
   "entrypoints": [
     "static/css/main.beb13c0a.css",
-    "static/js/main.84184b6f.js"
+    "static/js/main.30fea773.js"
   ]
 }
